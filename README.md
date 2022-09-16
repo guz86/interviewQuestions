@@ -1,8 +1,7 @@
 # interviewQuestions
  Unity, C#
 
-Вопросы на собеседование unity junior developer
-Расскажите о себе.
+## Вопросы на собеседование unity junior developer
 Над какими проектами вы работали и какие задачи выполняли ?
 
 C#
