@@ -1,6 +1,10 @@
 # interviewQuestions
  Unity, C#
 
+## Unity Junior Developer - Требования к кандидатам
+
+
+
 ## Вопросы на собеседование unity junior developer
 
 ### C
@@ -594,3 +598,19 @@ Senior
 Напишите функцию, которая вернет сумму всех четных элементов массива, который передается в функцию (JavaScript).
   
   
+  
+https://www.interviewbit.com/c-sharp-interview-questions/
+https://www.simplilearn.com/tutorials/c-sharp-tutorial/c-sharp-interview-questions
+https://hackr.io/blog/c-sharp-interview-questions
+https://www.guru99.com/c-sharp-interview-questions.html
+https://www.devteam.space/hiring-interview-tips/c-interview-questions-and-answers/
+https://blog.udemy.com/c-sharp-interview-questions-2/
+https://www.edureka.co/blog/interview-questions/c-sharp-interview-questions/
+https://www.turing.com/blog/c-interview-questions-to-hire-c-developers-in-2022/
+https://www.javatpoint.com/c-sharp-interview-questions
+https://www.naukri.com/learning/articles/c-sharp-interview-questions-and-answers/
+https://itvdn.com/ru/blog/article/150-questions-net-developer
+https://habr.com/ru/post/541194/
+https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+https://www.toptal.com/c-sharp/top-10-mistakes-that-c-sharp-programmers-make
+
