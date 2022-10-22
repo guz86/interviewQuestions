@@ -15,6 +15,9 @@
 как отправить запрос из юнити, что такое сокет
 кватернион
 
+• Понимание TPL, Async, Unity UI, Component System, Addressables, NetWorking, Message Bus
+
+
 C#
 CLR среда, Garbidge Collector как работает(событие подписать, отписаться, утечка памяти)
 Что вы знаете о Garbage collector'e ?
