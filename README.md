@@ -16,7 +16,8 @@
 кватернион
 
 • Понимание TPL, Async, Unity UI, Component System, Addressables, NetWorking, Message Bus
-
+умение оценивать алгоритмическую сложность
+базовые знания о сетевом взаимодействии (сокеты)
 
 C#
 CLR среда, Garbidge Collector как работает(событие подписать, отписаться, утечка памяти)
