@@ -57,7 +57,48 @@ HTML5 теги?
 
 CSS фреймворки?
 
+box-sizing
 
+схлопывание?
+
+что такое размер viewport?
+
+что такое ретинизация?
+
+SVG?
+
+Типы данных в JS?
+
+ассинхронность в JS?
+
+Способы объявления переменных
+
+области видимости Hoisting Всплытие
+
+Прототипная модель, proto prototype, отличия
+
+Контекст, bind call apply стрелочные функции
+
+Замыкания Lexical Enviroment
+
+Классы функции конструкторы, приватные поля, static super
+
+ES6 деструктуризация, параметры по пумолчанию, шаблонные строки, rest spread etc
+
+DOM API  поиск элементов, обращение к аттрибутам, классам, вставка элементов на страницу, стили
+
+Модули, import export as export default
+
+Event делегирование погружение свойства addEventListener
+
+Хранение данных по значению и по ссылке
+
+JSON API
+
+Ajax, XMLHttpRequest, Fetch, Axios
+Методы массивов, forEach, map, reduce, filter, etc
+
+React
 
  
 
