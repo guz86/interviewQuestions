@@ -98,6 +98,8 @@ JSON API
 Ajax, XMLHttpRequest, Fetch, Axios
 Методы массивов, forEach, map, reduce, filter, etc
 
+Как дождаться выполнения всех запросов
+
 React
 
  
